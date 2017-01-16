@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1453647636 source:c:\users\marc\desktop\allegro_checking\check_alleg_4_4_oggvorbis\main.c
+	<allegro.h>
+	<logg.h>
+
+1459976852 source:c:\users\marc\desktop\son\main.c
+	<allegro.h>
+	<logg.h>
+

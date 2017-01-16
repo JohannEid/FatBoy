@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1459881203 source:c:\users\johann.e\documents\codes\vraimoteur\main.c
+	<allegro.h>
+	<time.h>
+
+1460285540 source:c:\users\johann.e\documents\codes\vraimoteur - copie - copie\main.c
+	<allegro.h>
+	<time.h>
+
+1460369176 source:c:\users\johann.e\documents\codes\vraimoteur - copie - copie - copie (2)\main.c
+	<allegro.h>
+	<time.h>
+
+1461174189 source:c:\users\johann.e\documents\codes\moteurbo\main.c
+	<allegro.h>
+	<time.h>
+
+1461243034 source:c:\users\johann.e\documents\codes\vie de merde\main.c
+	<allegro.h>
+	<time.h>
+
+1461417088 source:c:\users\johann.e\documents\codes\vie de merde - copie\main.c
+	<allegro.h>
+	<time.h>
+
+1461418557 source:c:\users\johann.e\documents\codes\lol\main.c
+	<allegro.h>
+	<time.h>
+
+1462127972 source:c:\users\johann.e\documents\codes\lol - copie - copie\main.c
+	<allegro.h>
+	<time.h>
+	"acteur.h"
+	"interface.h"
+
+1462129508 source:c:\users\johann.e\documents\codes\lol - copie - copie\acteur.c
+	<allegro.h>
+	<time.h>
+	"acteur.h"
+
+1462129275 c:\users\johann.e\documents\codes\lol - copie - copie\acteur.h
+	<allegro.h>
+	<time.h>
+
+1462035089 source:c:\users\johann.e\documents\codes\lol - copie - copie\interface.c
+	<allegro.h>
+
+1462011975 c:\users\johann.e\documents\codes\lol - copie - copie\interface.h
+
